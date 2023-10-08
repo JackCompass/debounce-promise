@@ -1,0 +1,18 @@
+{
+  "name": "debounce-promise",
+  "version": "1.0.0",
+  "description": "A utility package that helps with debouncing calls that returns promise which further resolves in data.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "debouce",
+    "async",
+    "promise",
+    "react"
+  ],
+  "author": "Anuj Singh",
+  "license": "ISC"
+}
