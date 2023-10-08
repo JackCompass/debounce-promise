@@ -1,5 +1,5 @@
 {
-  "name": "@js-util/debounce-promise",
+  "name": "debounce-promise-latest",
   "version": "1.0.1",
   "description": "A utility package that helps with debouncing calls that returns promise which further resolves in data.",
   "main": "index.js",
