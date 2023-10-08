@@ -1,5 +1,5 @@
 {
-  "name": "debounce-promise",
+  "name": "delayed-promise",
   "version": "1.0.0",
   "description": "A utility package that helps with debouncing calls that returns promise which further resolves in data.",
   "main": "index.js",
